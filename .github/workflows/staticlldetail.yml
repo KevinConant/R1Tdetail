@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LLdetail | Loaner R1T Vehicle for Car Detailing</title>
+</head>
+<body>
+	<header>
+		<h1>LLdetail</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Loaner R1T</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Welcome to LLdetail</h2>
+			<p>We offer professional detailing services for your car, and now, we also provide a loaner R1T vehicle while your car is being detailed!</p>
+			<p>Our R1T is a state-of-the-art vehicle that comes fully equipped with all the latest features and technologies. It's the perfect solution for customers who need to keep moving while their car is in the shop.</p>
+			<p>Don't let car detailing slow you down. Choose LLdetail and enjoy the convenience of our loaner R1T vehicle!</p>
+		</section>
+		<section>
+			<h2>Our Services</h2>
+			<ul>
+				<li>Interior Detailing</li>
+				<li>Exterior Detailing</li>
+				<li>Engine Detailing</li>
+				<li>Headlight Restoration</li>
+				<li>Paint Correction</li>
+			</ul>
+			<p>Contact us today to schedule an appointment!</p>
+		</section>
+		<section>
+			<h2>Loaner R1T Vehicle</h2>
+			<p>Our loaner R1T vehicle is available for customers who need to keep moving while their car is being detailed.</p>
+			<p>The R1T is a top-of-the-line vehicle that offers advanced features, including:</p>
+			<ul>
+				<li>Electric powertrain</li>
+				<li>Four-wheel drive</li>
+				<li>Large touchscreen display</li>
+				<li>Advanced safety features</li>
+			</ul>
+			<p>Contact us today to learn more about our loaner R1T vehicle!</p>
+		</section>
+	</main>
+	<footer>
+		<p>LLdetail &copy; 2023. All rights reserved.</p>
+	</footer>
+</body>
+</html>
